@@ -1,0 +1,6 @@
+name: DominionPunishments
+version: '${project.version}'
+main: com.cole.dominionpunishments.DominionPunishments
+authors: [ Cole ]
+description: Log Punishments into discord Via Webhook
+depend: [LiteBans]
